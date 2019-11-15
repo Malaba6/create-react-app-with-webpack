@@ -1,0 +1,56 @@
+
+.wrapper {
+    margin: 0 auto;
+    margin-top: 10%;
+}
+.emal-div-left {
+    min-width: 100px;
+    width: 30%;
+}
+.emal-div-right {
+    width: 80%;
+}
+.emal-div {
+    margin-top: 10px;
+}
+.redirect-link {
+    float: right;
+    font-size: 0.9em;
+
+}
+.error {
+    color: red;
+}
+.redirect-link a{
+    color: rgb(61, 143, 197);
+}
+.wrapper-login {
+    margin: 0 auto;
+    width: 40%;
+    margin-top: 5%;
+}
+form h3 {
+    margin-top: 10%;
+    color: rgb(61, 143, 197);
+    font-weight: lighter;
+    text-align: start;
+}
+
+.label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.input {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+input[type=submit] {
+    width: 200px;
+    margin-top: 20px;
+}
+
+.login-btn:hover {
+    cursor: pointer;
+}
